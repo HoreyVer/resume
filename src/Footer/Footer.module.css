@@ -1,0 +1,28 @@
+.footer {
+    height: 30vh;
+    background-color: #af4e1a;
+
+}
+
+.footerContainer {
+    flex-direction: column;
+}
+
+.title {
+    background-color: #f7f7f7;
+}
+
+.contact{
+    display: flex;
+    border: 1px solid;
+    height: 60px;
+    width: 300px;
+}
+
+.a{
+    border: 1px solid;
+    height: 60px;
+    width: 60px;
+    background-color: #f7f7f7;
+}
+

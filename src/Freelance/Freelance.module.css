@@ -1,0 +1,12 @@
+.freelance {
+    height: 20vh;
+    background-color: #f30934;
+}
+
+.freelanceContainer{
+    flex-direction: column;
+}
+
+.title{
+    background-color: #f7f7f7;
+}
